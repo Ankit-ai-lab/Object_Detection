@@ -75,5 +75,5 @@ To upload your video file to **GitHub**:
 
 ## 🔗 LinkedIn Post
 
-📢 **Share your thoughts!** Check out my LinkedIn post about this project and join the discussion! 👉 [Click here](#) 🌍🚀
+📢 **Share your thoughts!** Check out my LinkedIn post about this project and join the discussion! 👉 [Click here](# ) https://www.linkedin.com/in/ankit-gupta-491b45252/ 🌍🚀
 
